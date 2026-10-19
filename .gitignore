@@ -1,0 +1,15 @@
+*.o
+*.a
+*.so
+*.so.*
+core
+core.*
+/calc/calc_static
+/calc/calc_shared
+/calc/calc_dynamic
+/calc/calc_profile
+/calc/gmon.out
+/assert/assert_standard
+/assert/assert_test
+/assert/assert_no_check
+
